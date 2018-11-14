@@ -3,10 +3,10 @@
 
 ![物联网俱乐部](http://www.iot-club.cn/template/sanimade_blue/images/logo.png)
 
-物联网俱乐部[淘宝店铺1](iot-club.taobao.com)  
+物联网俱乐部[淘宝店铺1](https://iot-club.taobao.com)  
 物联网俱乐部[淘宝店铺2](https://shop449662000.taobao.com/shop/view_shop.htm?spm=a230r.1.14.25.35f67680tOpdnw&user_number_id=2928755113)
 
-更多资料欢迎点击访问[物联网俱乐部](www.iotclub.net)论坛
+更多资料欢迎点击访问[物联网俱乐部](http://www.iotclub.net)论坛
 
 ## EVB_M1资料说明
 
