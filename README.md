@@ -1,12 +1,7 @@
 # 《EVB_M1 手把手教程》
 ------
+![EVB_M1简介](https://github.com/iot-club/EVB_M1/blob/master/Documents/about_us/EVB_M1_Introduction.png)
 
-![物联网俱乐部](http://www.iot-club.cn/template/sanimade_blue/images/logo.png)
-
-物联网俱乐部[淘宝店铺1](https://iot-club.taobao.com)  
-物联网俱乐部[淘宝店铺2](https://shop449662000.taobao.com/shop/view_shop.htm?spm=a230r.1.14.25.35f67680tOpdnw&user_number_id=2928755113)
-
-更多资料欢迎点击访问[物联网俱乐部](http://www.iotclub.net)论坛
 
 ## EVB_M1资料说明
 
@@ -36,3 +31,9 @@
 实验四|EVB_M1 光照强度监测|光照传感器|智慧路灯
 实验五|EVB_M1 Wifi+LWM2M 电信平台接入|无线设备接入|智能家居
 
+![物联网俱乐部](http://www.iot-club.cn/template/sanimade_blue/images/logo.png)
+
+物联网俱乐部[淘宝店铺1](http://iot-club.taobao.com)  
+物联网俱乐部[淘宝店铺2](https://shop449662000.taobao.com)
+
+更多资料欢迎点击访问[物联网俱乐部](http://www.iotclub.net)论坛
