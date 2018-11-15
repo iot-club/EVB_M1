@@ -1,10 +1,15 @@
 # 《EVB_M1》
 ------
-![EVB_M1简介1](./Documents/about_us/EVB_M1_Introduction.jpg)
+![物联网俱乐部](http://www.iot-club.cn/template/sanimade_blue/images/logo.png)
 
-![EVB_M1简介2](./Documents/about_us/EVB_M1_Introduction_Product_Performance.jpg)
+&emsp;&emsp;物联网俱乐部是全国领先的物联网开发板提供商，自成立以来一直专注于物联网开发板设计研发，团队成员精通硬件设计、嵌入式软件设计、通信技术、云平台等。俱乐部始终致力于打造全生态物联网开发板，助力物联网技术在各行业中应用。
 
-![EVB_M1简介3](./Documents/about_us/EVB_M1_Introduction_Interface_Introduction.jpg)
+&emsp;&emsp;物联网俱乐部于2018年4月份正式与华为LiteOS达成合作意向，携手华为在福州、上海、北京、莫斯科等城市举办过众多活动。
+
+&emsp;&emsp;物联网俱乐部[淘宝店铺1](http://iot-club.taobao.com)  
+&emsp;&emsp;物联网俱乐部[淘宝店铺2](https://shop449662000.taobao.com)
+
+欢迎点击访问[物联网俱乐部](http://www.iotclub.net)论坛。
 
 ## EVB_M1资料说明
 
@@ -43,11 +48,24 @@
 - [ ] [EVB_M1 华为平台接入手册]()
 - [ ] [EVB_M1 使用手册V1.0]()
 - [ ] [EVB_M1 视频教程]()
-![物联网俱乐部](http://www.iot-club.cn/template/sanimade_blue/images/logo.png)
 
-物联网俱乐部[淘宝店铺1](http://iot-club.taobao.com)  
-物联网俱乐部[淘宝店铺2](https://shop449662000.taobao.com)
 
-更多资料欢迎点击访问[物联网俱乐部](http://www.iotclub.net)论坛
 
-![EVB_M1简介4](./Documents/about_us/EVB_M1_Introduction_Company_Profile.jpg)
+![EVB_M1简介1](./Documents/about_us/EVB_M1_Introduction.png)
+
+## 产品性能
+![EVB_M1简介2](./Documents/about_us/Performance.png)
+
+## 功能框图
+![EVB_M1简介3](./Documents/about_us/Functional_block_diagram.png)
+
+## 接口介绍
+![EVB_M1简介4](./Documents/about_us/Interface_Distribution.png)
+
+## 接口列表
+![EVB_M1简介5](./Documents/about_us/Interface_List.png)
+
+
+
+
+![EVB_M1简介5](./Documents/about_us/IoTCluB.png)
