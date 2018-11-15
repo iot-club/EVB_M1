@@ -35,7 +35,7 @@
 实验五|EVB_M1 Wifi+LWM2M 电信平台接入|无线设备接入|智能家居
 
 ## 开发实战教程列表
-- [x] [程序烧录指南](./Documents/Program_Burning_Guide)
+- [x] [程序烧录指南](./Documents/Program_Burning_Guide.md)
 - [x] [工程导入教程](./Documents/Project_Import_Tutorial.md)
 - [x] [开发环境配置指南](./Documents/Development_Environment_Configuration_Guide.md)
 - [x] [硬件连接及配置教程](./Documents/Hardware_Connection_and_Configuration_Tutorial.md)
