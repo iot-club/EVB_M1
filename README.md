@@ -39,9 +39,10 @@
 - [x] [工程导入教程](./Documents/Project_Import_Tutorial.md)
 - [x] [开发环境配置指南](./Documents/Development_Environment_Configuration_Guide.md)
 - [x] [硬件连接及配置教程](./Documents/Hardware_Connection_and_Configuration_Tutorial.md)
-- [ ] [EVB_M1新手入门教程]()
-
-
+- [ ] [EVB_M1 串口调试NB-IoT入门篇]()
+- [ ] [EVB_M1 华为平台接入手册]()
+- [ ] [EVB_M1 使用手册V1.0]()
+- [ ] [EVB_M1 视频教程]()
 ![物联网俱乐部](http://www.iot-club.cn/template/sanimade_blue/images/logo.png)
 
 物联网俱乐部[淘宝店铺1](http://iot-club.taobao.com)  
@@ -49,3 +50,4 @@
 
 更多资料欢迎点击访问[物联网俱乐部](http://www.iotclub.net)论坛
 
+![EVB_M1简介4](./Documents/about_us/EVB_M1_Introduction_Company_Profile.jpg)
