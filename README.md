@@ -55,11 +55,11 @@
 - [x] [工程导入教程](./Documents/Project_Import_Tutorial.md)
 - [x] [开发环境配置指南](./Documents/Development_Environment_Configuration_Guide.md)
 - [x] [硬件连接及配置教程](./Documents/Hardware_Connection_and_Configuration_Tutorial.md)
-- [x] [EVB_M1 串口调试NB-IoT入门篇]()
-- [x] [EVB_M1 华为平台接入手册]()
-- [x] [EVB_M1 使用手册V1.0]()
-- [x] [EVB_M1 视频教程]()
-- [x] [更多教程资料敬请期待]()
+- [ ] [EVB_M1 串口调试NB-IoT入门篇]()
+- [ ] [EVB_M1 华为平台接入手册]()
+- [ ] [EVB_M1 使用手册V1.0]()
+- [ ] [EVB_M1 视频教程]()
+- [ ] [更多教程资料敬请期待]()
 
 
 ## EVB_M1简介
